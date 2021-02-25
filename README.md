@@ -18,7 +18,16 @@ Here are some ideas to get you started:
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
 <br>
 
-## Contact Me at.
+- I love building applications & discussing new product ideas.
+- I am currently learning React.
+- Time Management + Consistency + Patience 
+  
+### ⚡ My Github Stats
+
+![Rahil's github stats](https://github-readme-stats.vercel.app/api?username=rahil-1407&show_icons=true&theme=merko)
+
+### Contact Me at.
+
 <a href="https://www.linkedin.com/in/rahil-sinha-74655a154/">
   <img align="left" alt="Rahil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
