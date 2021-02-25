@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hi align="center">Hi there, I am Rahil Sinha 👋</h1>
+
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
+<br>
+
+## Contact Me at.
+<a href="https://www.linkedin.com/in/rahil-sinha-74655a154/">
+  <img align="left" alt="Rahil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/sinha.rahil1">
+  <img align="left" alt="Aman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
