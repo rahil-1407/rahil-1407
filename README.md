@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rahil-1407/rahil-1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hi align="center">Hi there, I am Rahil Sinha 👋</h1>
+<hi align="center"><strong> Hi there, I am Rahil Sinha 👋 </strong></h1>
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
 <br>
