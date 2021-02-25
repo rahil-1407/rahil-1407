@@ -21,7 +21,18 @@ Here are some ideas to get you started:
 - I love building applications & discussing new product ideas.
 - I am currently learning React.
 - Time Management + Consistency + Patience 
-  
+
+### 💻 Languages and Tools...
+
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/cpp.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/javascript.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/nodejs.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/mongoDB.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/postman.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/git.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/git.png"></code>&nbsp;&nbsp;
+&nbsp;&nbsp;
+
 ### ⚡ My Github Stats
 
 ![Rahil's github stats](https://github-readme-stats.vercel.app/api?username=rahil-1407&show_icons=true&theme=merko)
