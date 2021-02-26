@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - I am currently learning React.
 - Time Management + Consistency + Patience 
 
-### 💻 Languages and Tools...
+### 💻 Languages and Tools
 
 <code><img height="30" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/cpp.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/javascript.png"></code>&nbsp;&nbsp;
