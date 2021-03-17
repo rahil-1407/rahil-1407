@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 - I am currently learning React.
 - I am currently a participant in Cross WOC IEEE DTU open source program.
 - Time Management + Consistency + Patience ; Have a hard time following it.
+- Feel free to reach out to me if you have any suggestions or want to collaborate. 
 
 ### 💻 Languages and Tools
 
+<code><img height="30" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/mern.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/cpp.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/javascript.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/nodejs.png"></code>&nbsp;&nbsp;
@@ -32,6 +34,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/postman.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/git.png"></code>&nbsp;&nbsp;
 <code><img height="30" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/express.png"></code>&nbsp;&nbsp;
+<code><img height="30" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/react.png"></code>&nbsp;&nbsp;
 &nbsp;&nbsp;
 
 ### ⚡ My Github Stats
@@ -41,13 +44,9 @@ Here are some ideas to get you started:
 ### Contact Me at.
 
 <a href="https://www.linkedin.com/in/rahil-sinha-74655a154/">
-  <img align="left" alt="Rahil's LinkdeIN" width="22px" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/linkedin.png" />
+  <img align="left" alt="Rahil's LinkedIN" width="22px" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/sinha.rahil1">
   <img align="left" alt="Rahil's Facebook" width="22px" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/f_logo_RGB-Hex-Blue_512.png" />
-<a href="mailto:rshzb14.7@gmail.com">
-  <img align="left" alt="Rahil's Facebook" width="22px" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/gmail.png" />
+ <br><br>
   
-👯 Feel free to reach out to me if you have any suggestions or want to collaborate. 
-&nbsp;&nbsp;
-
