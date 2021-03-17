@@ -45,3 +45,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.facebook.com/sinha.rahil1">
   <img align="left" alt="Rahil's Facebook" width="22px" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/f_logo_RGB-Hex-Blue_512.png" />
+<a href="mailto:rshzb14.7@gmail.com">
+  <img align="left" alt="Rahil's Facebook" width="22px" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/gmail.png" />
+  
+👯 Feel free to reach out to me if you have any suggestions or want to collaborate. 
+&nbsp;&nbsp;
+
