@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### Contact Me at.
 
 <a href="https://www.linkedin.com/in/rahil-sinha-74655a154/">
-  <img align="left" alt="Rahil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rahil's LinkdeIN" width="22px" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/sinha.rahil1">
-  <img align="left" alt="Rahil's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Rahil's Facebook" width="22px" src="https://github.com/rahil-1407/rahil-1407/blob/main/Images/f_logo_RGB-Hex-Blue_512.png" />
