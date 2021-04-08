@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 
 - I love building applications & discussing new product ideas.
 - I am currently learning React.
-- I am currently a participant in Cross WOC IEEE DTU open source program.
 - Time Management + Consistency + Patience ; Have a hard time following it.
-- Feel free to reach out to me if you have any suggestions or want to collaborate. 
+- Feel free to reach out to me at rshzb14.7@gmail.com if you have any suggestions or want to collaborate. 
 
 ### 💻 Languages and Tools
 
