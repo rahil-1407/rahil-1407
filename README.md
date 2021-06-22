@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 
 - I love building applications & discussing new product ideas.
-- I am currently learning React.
+- I am currently working as a Software Engineer at Deqode in the Frontend Team.
 - Time Management + Consistency + Patience ; Having a hard time following it.
 - Feel free to reach out to me at rshzb14.7@gmail.com if you have any suggestions or want to collaborate. 
 
